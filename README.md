@@ -5,36 +5,87 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davixs&label=Views&color=blue&style=plastic&style=for-the-badge" alt="davixs" /> </p>
 
-![mario](https://user-images.githubusercontent.com/71903343/197866667-e931aa3b-b1c7-417c-b4de-e9405ab890a8.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71903343/197866667-e931aa3b-b1c7-417c-b4de-e9405ab890a8.gif" alt="Mario" />
+</p>
 
 # 💫 Sobre mim:
 👋 Olá! Sou um entusiasta de tecnologias com foco no desenvolvimento Back-End e desenvolvimento de software.  
 🎯 Atualmente, estou focado em conseguir meu primeiro emprego como desenvolvedor na área, com o objetivo de desenvolver mudanças tecnológicas que impactem positivamente a vida das pessoas.
 
 ## 📚 Atualmente estudando  
-🎓 **Fatec Franca "Dr Thomaz Novelino" São Paulo** – Analista e desenvolvimento de sistemas 2/6 
+🎓 **Fatec Franca "Dr Thomaz Novelino" São Paulo** – Analista e desenvolvimento de sistemas 2/6  
 
 📌 **Cursos extras:** Spring Boot | Programação em Python e Java
 
 ## 🌐 Redes sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-xavier-silva/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xaviersilvadavi@gmail.com)
+
+<div align="center">
+  <a href="https://linkedin.com/in/davi-xavier-silva/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:xaviersilvadavi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=davixs&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=davixs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=davixs&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=davixs&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=davixs&theme=dark&hide_border=false" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davixs&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=davixs&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=davixs&icon=0&color=0" />
+  </a>
+</p>
