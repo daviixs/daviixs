@@ -10,6 +10,10 @@
 👋 Olá! Sou um entusiasta de tecnologias com foco no desenvolvimento Back-End e desenvolvimento de software.  
 🎯 Atualmente, estou focado em conseguir meu primeiro emprego como desenvolvedor na área, com o objetivo de desenvolver mudanças tecnológicas que impactem positivamente a vida das pessoas.
 
+# 📚 Atualmente estudando  
+🎓 **Fatec Franca "Dr Thomaz Novelino" São Paulo** – Analista e desenvolvimento de sistemas 2/6 
+📌 **Cursos extras:** Spring Boot | Programação em Python e Java
+
 ## 🌐 Redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-xavier-silva/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xaviersilvadavi@gmail.com)
