@@ -12,6 +12,7 @@
 
 ## 📚 Atualmente estudando  
 🎓 **Fatec Franca "Dr Thomaz Novelino" São Paulo** – Analista e desenvolvimento de sistemas 2/6 
+
 📌 **Cursos extras:** Spring Boot | Programação em Python e Java
 
 ## 🌐 Redes sociais:
