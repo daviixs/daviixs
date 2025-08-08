@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> eu sou Davi Xavier</h1>
+         width="45" /> eu sou Davi</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davixs&label=Views&color=blue&style=plastic&style=for-the-badge" alt="davixs" /> </p>
 
@@ -67,25 +67,23 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=davixs&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=daviixs&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=davixs&theme=dark&hide_border=false" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=daviixs&theme=dark&hide_border=false" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davixs&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviixs&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
     </td>
   </tr>
 </table>
 
 </div>
 
----
-
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=davixs&icon=0&color=0" />
+    <img src="https://visitcount.itsvg.in/api?id=daviixs&icon=0&color=0" />
   </a>
 </p>
