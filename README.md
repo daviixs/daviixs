@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davixs&label=Views&color=blue&style=plastic&style=for-the-badge" alt="davixs" /> </p>
 
-<p align="center">
-  <img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/104118614/219ba479-46d5-4b87-838f-0de9b86e6f60](https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ2MzAxNzcsIm5iZiI6MTc1NDYyOTg3NywicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA4VDA1MTExN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJiNTg0NmZmMjBmNmUxNzgyNGEzZTI2MGUxODVjZjUzZTE2Yjg0ZmRlMmU0NGIzNjE5MTlkNDQwMTVlNjM1ZGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UHYbnHblEFSF-WcCaoyfP9DyfzftbHamrADM9NDVE4E)" alt="Work 24/7" height="200" />
-</p>
+![mario]([https://user-images.githubusercontent.com/71903343/197866667-e931aa3b-b1c7-417c-b4de-e9405ab890a8.gif])
 
 # 💫 Sobre mim:
 👋 Olá! Sou um entusiasta de tecnologias com foco no desenvolvimento Back-End e desenvolvimento de software.  
