@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davixs&label=Views&color=blue&style=plastic&style=for-the-badge" alt="davixs" /> </p>
 
-![Work 24/7]([https://user-images.githubusercontent.com/71903343/197866667-e931aa3b-b1c7-417c-b4de-e9405ab890a8.gif](https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ2MzA3NDEsIm5iZiI6MTc1NDYzMDQ0MSwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA4VDA1MjA0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAxMTlkODIxOWVlOGYxNDA0MjU3ZDEyNjA1OWY2YTBkNzNkZmE3MDY3YWNiZjIzZGRiODk0OGYwNmVkNWZhMzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.B0p_35opfXl_ebhuNLktfi7_lEnVkdy-hHGvkLn4c1c))
+![Work 24/7](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 
 # 💫 Sobre mim:
 👋 Olá! Sou um entusiasta de tecnologias com foco no desenvolvimento Back-End e desenvolvimento de software.  
