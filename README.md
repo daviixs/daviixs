@@ -9,6 +9,7 @@
 
 # 💫 Sobre mim:
 👋 Olá! Sou um entusiasta de tecnologias com foco no desenvolvimento Back-End e desenvolvimento de software.  
+
 🎯 Atualmente, estou focado em conseguir meu primeiro emprego como desenvolvedor na área, com o objetivo de desenvolver mudanças tecnológicas que impactem positivamente a vida das pessoas.
 
 ## 📚 Atualmente estudando  
