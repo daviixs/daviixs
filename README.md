@@ -10,7 +10,7 @@
 👋 Olá! Sou um entusiasta de tecnologias com foco no desenvolvimento Back-End e desenvolvimento de software.  
 🎯 Atualmente, estou focado em conseguir meu primeiro emprego como desenvolvedor na área, com o objetivo de desenvolver mudanças tecnológicas que impactem positivamente a vida das pessoas.
 
-# 📚 Atualmente estudando  
+## 📚 Atualmente estudando  
 🎓 **Fatec Franca "Dr Thomaz Novelino" São Paulo** – Analista e desenvolvimento de sistemas 2/6 
 📌 **Cursos extras:** Spring Boot | Programação em Python e Java
 
