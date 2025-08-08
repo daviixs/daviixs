@@ -3,7 +3,9 @@
          height="45"
          width="45" /> eu sou Davi</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davixs&label=Views&color=blue&style=plastic&style=for-the-badge" alt="davixs" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=daviixs&label=Views&color=blue&style=plastic&style=for-the-badge" alt="daviixs" />
+</p>
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/104118614/219ba479-46d5-4b87-838f-0de9b86e6f60" alt="Work 24/7" height="200" />
@@ -67,15 +69,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=daviixs&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=daviixs&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=daviixs&theme=dark&hide_border=false" />
+      <img src="https://streak-stats.demolab.com/?user=daviixs&theme=dark&hide_border=false" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviixs&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviixs&theme=dark&hide_border=false&layout=compact" />
     </td>
   </tr>
 </table>
