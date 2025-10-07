@@ -51,9 +51,6 @@
     <td align="center">
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    </td>
   </tr>
   <tr>
     <td align="center">
