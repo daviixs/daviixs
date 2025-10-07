@@ -46,24 +46,19 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
     </td>
