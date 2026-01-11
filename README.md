@@ -74,21 +74,7 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=daviixs&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=daviixs&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviixs&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-    </td>
-  </tr>
-</table>
+![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviixs&commits_year=2026)
 
 </div>
 
