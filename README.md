@@ -74,7 +74,7 @@
 
 <div align="center">
 
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviixs&commits_year=2026)
+<img src="wakatime/stats.svg" height="300"/>
 
 </div>
 
