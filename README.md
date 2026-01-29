@@ -72,12 +72,8 @@
 
 ## 📊 Estatísticas do GitHub:
 
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviixs&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviixs&layout=compact&theme=dark)
-
-</div>
+https://wakatime.com/@daviixs </br>
+<img src="https://wakatime.com/share/@daviixs/f75e941d-efd9-4cb6-a159-f4a8113df166.svg" />
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
