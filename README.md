@@ -73,8 +73,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=somaycon&theme=dark" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somaycon&theme=dark" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daviixs&theme=dark" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daviixs&theme=dark" alt="Top Languages" />
 </div>
 
 ---
