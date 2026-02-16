@@ -70,10 +70,14 @@
 
 </div>
 
-## 📊 Estatísticas do GitHub:
+## 📊 GitHub Stats
 
-https://wakatime.com/@daviixs </br>
-<img src="https://wakatime.com/share/@daviixs/f75e941d-efd9-4cb6-a159-f4a8113df166.svg" />
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=somaycon&theme=dark" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somaycon&theme=dark" alt="Top Languages" />
+</div>
+
+---
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
