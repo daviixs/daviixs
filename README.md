@@ -10,10 +10,9 @@
 # 💫 Sobre mim:
 👋 Olá! Sou um entusiasta de tecnologias com foco no desenvolvimento Back-End e desenvolvimento de software.  
 
-🎯 Atualmente, estou focado em conseguir meu primeiro emprego como desenvolvedor na área, com o objetivo de desenvolver mudanças tecnológicas que impactem positivamente a vida das pessoas.
 
 ## 📚 Atualmente estudando  
-🎓 **Fatec Franca "Dr Thomaz Novelino" São Paulo** – Analista e desenvolvimento de sistemas 2/6  
+🎓 **Fatec Franca "Dr Thomaz Novelino" São Paulo** – Analista e desenvolvimento de sistemas 3/6  
 
 📌 **Cursos extras:** Spring Boot | Programação em Python e Java
 
@@ -41,7 +40,7 @@
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/SpringBoot-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     </td>
   </tr>
   <tr>
