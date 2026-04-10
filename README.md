@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/nestjs-4479A1.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
