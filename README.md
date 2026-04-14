@@ -79,7 +79,5 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=daviixs&icon=0&color=0" />
-  </a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daviixs&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
