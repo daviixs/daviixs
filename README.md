@@ -1,15 +1,23 @@
 [<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5772e2,100:224bf3&height=220&section=header&text=Olá,%20eu%20sou%20davi&fontColor=FFFFF0"/>](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5772e2,100:224bf&text=Olá,%20eu%20sou%20davi&fontColor=FFFFF0)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=224bf3&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Davi+:%29;Desenvolvedor+Backend;Cursando+A.D.S+na+Fatec+Franca!;Confira+meus+projetos+abaixo...)](https://git.io/typing-svg)
-
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+        
 # 💫 Sobre mim:
-👋 Olá! Sou um entusiasta de tecnologias com foco no desenvolvimento Back-End e desenvolvimento de software.  
+👋 Olá! Sou um entusiasta de tecnologias com foco no desenvolvimento Back-End e desenvolvimento de software.
 
+## 📚 Atualmente estudando
+🎓 **Fatec Franca "Dr Thomaz Novelino" São Paulo** – Analista e desenvolvimento de sistemas 3/6
 
-## 📚 Atualmente estudando  
-🎓 **Fatec Franca "Dr Thomaz Novelino" São Paulo** – Analista e desenvolvimento de sistemas 3/6  
+   </td>
+   <td valign="top">
+     <img align="right" alt="tux-typing-gif" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/tux-typing.gif" width="150px"/>
+   </td>
+  </tr>
+</table>
 
-📌 **Cursos extras:** Spring Boot | Programação em Python e Java
 
 ## 🌐 Redes sociais:
 
