@@ -1,4 +1,4 @@
-[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5772e2,100:224bf3&height=300&section=header&text=Olá,%20eu%20sou%20davi&fontColor=FFFFF0"/>](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5772e2,100:224bf&text=Olá,%20eu%20sou%20davi&fontColor=FFFFF0)
+[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5772e2,100:224bf3&height=220&section=header&text=Olá,%20eu%20sou%20davi&fontColor=FFFFF0"/>](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5772e2,100:224bf&text=Olá,%20eu%20sou%20davi&fontColor=FFFFF0)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=224bf3&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Davi+:%29;Desenvolvedor+Backend;Cursando+A.D.S+na+Fatec+Franca!;Confira+meus+projetos+abaixo...)](https://git.io/typing-svg)
 
