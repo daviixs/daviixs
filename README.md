@@ -1,8 +1,6 @@
 [<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5772e2,100:224bf3&height=300&section=header&text=Olá,%20eu%20sou%20davi&fontColor=FFFFF0"/>](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5772e2,100:224bf&text=Olá,%20eu%20sou%20davi&fontColor=FFFFF0)
 
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C++eu+sou+Davi)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=224bf3&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Davi+:%29;Desenvolvedor+Backend;Cursando+A.D.S+na+Fatec+Franca!;Confira+meus+projetos+abaixo...)](https://git.io/typing-svg)
 
 # 💫 Sobre mim:
 👋 Olá! Sou um entusiasta de tecnologias com foco no desenvolvimento Back-End e desenvolvimento de software.  
