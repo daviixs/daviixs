@@ -78,6 +78,4 @@
 
 ---
 
-<p align="center">
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daviixs&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
