@@ -11,6 +11,8 @@
 ## 📚 Atualmente estudando
 🎓 **Fatec Franca "Dr Thomaz Novelino" São Paulo** – Analista e desenvolvimento de sistemas 3/6
 
+
+
    </td>
    <td valign="top">
      <img align="right" alt="tux-typing-gif" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/tux-typing.gif" width="150px"/>
