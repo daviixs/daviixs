@@ -73,3 +73,5 @@
 ---
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daviixs&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5772e2,100:224bf3&height=120&section=footer"/>
