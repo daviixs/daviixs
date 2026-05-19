@@ -28,6 +28,9 @@
   <a href="mailto:xaviersilvadavi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://davixs.com.br">
+  <img src="https://img.shields.io/badge/Meu%20Portfólio-111111?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
 </div>
 
   <h3>💻 Tech Stack</h3>
