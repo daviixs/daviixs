@@ -2,10 +2,10 @@
 
         
 # 💫 Sobre mim:
-👋 Olá! Sou um entusiasta de tecnologias com foco no desenvolvimento Back-End e desenvolvimento de software.
+👋 Olá! Sou um entusiasta de tecnologias com foco no desenvolvimento Full-Stack.
 
 ## 📚 Atualmente estudando
-🎓 **Fatec Franca "Dr Thomaz Novelino" São Paulo** – Analista e desenvolvimento de sistemas 3/6
+🎓 **Fatec Franca "Dr Thomaz Novelino" São Paulo** – Analista e desenvolvimento de sistemas 4/6
       
    </td>
    <td valign="top" style="padding-left: 20px;">
