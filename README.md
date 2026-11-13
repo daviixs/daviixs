@@ -1,4 +1,4 @@
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/art/header-dark.svg"><img src="./imgs/art/header-light.svg" alt="Davi, com o globo &quot;The World Is Yours&quot;" width="594"></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/art/header-dark.svg"><img src="./imgs/art/header-light.svg" alt="Davi, com Tony Montana de Scarface em arte ASCII" width="544"></picture></p>
 
 ```text
  .-----------------------------------------------------------------------------.
