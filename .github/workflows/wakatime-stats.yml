@@ -18,12 +18,12 @@ jobs:
 
       - name: Generate SVG from Vercel API
         env:
-          WAKATIME_API_KEY: ${{ waka_82352f7f-093c-415f-824c-9e2e40edf3d8 }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
           mkdir -p wakatime
-          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=$daviixs&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN" \
+          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=daviixs&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN" \
             -o wakatime/stats.svg
 
       - name: Bump README cache-buster for wakatime/stats.svg (daily)
