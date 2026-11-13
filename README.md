@@ -39,7 +39,7 @@
  |     back-end services and full web applications, from the database to       |
  |     the UI, focused on clean code, performance and great experiences.       |
  |     Studying Systems Analysis and Development at Fatec Franca.              |
- | -@daviixs                                                                   |
+ | -https://davixs.com.br                                                                   |
  |                                                                             |
  '-----------------------------------------------------------------------------'
 ```
