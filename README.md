@@ -1,82 +1,77 @@
-[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5772e2,100:224bf3&height=220&section=header&text=Olá,%20eu%20sou%20davi&fontColor=FFFFF0"/>](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5772e2,100:224bf&text=Olá,%20eu%20sou%20davi&fontColor=FFFFF0)
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/art/header-dark.svg"><img src="./imgs/art/header-light.svg" alt="Davi, retrato em arte ASCII" width="530"></picture></p>
 
-        
-# 💫 Sobre mim:
-👋 Olá! Sou um entusiasta de tecnologias com foco no desenvolvimento Full-Stack.
+```text
+ .-----------------------------------------------------------------------------.
+ | (x) (-) (+)                     ~/about.txt                                 |
+ |-----------------------------------------------------------------------------|
+ |                                                                             |
+ | PT  Desenvolvedor Full-Stack na Grid360 (04/2026 - atual). Construo APIs,   |
+ |     serviços back-end e aplicações web completas, do banco de dados à       |
+ |     interface, com foco em código limpo, performance e boa experiência.     |
+ |                                                                             |
+ |     > Back-end:  Node.js, NestJS, Fastify, Java/Spring Boot e Python        |
+ |     > Front-end: React, Next.js, TypeScript e Tailwind CSS                  |
+ |     > Dados:     PostgreSQL, SQLite e Prisma ORM                            |
+ |     > Infra:     Docker e AWS                                               |
+ |                                                                             |
+ |     Cursando Análise e Desenvolvimento de Sistemas na Fatec Franca          |
+ |     "Dr. Thomaz Novelino" (4º de 6 semestres).                              |
+ |                                                                             |
+ | EN  Full-Stack Developer at Grid360 (04/2026 - present). I build APIs,      |
+ |     back-end services and full web applications, from the database to       |
+ |     the UI, focused on clean code, performance and great experiences.       |
+ |     Studying Systems Analysis and Development at Fatec Franca.              |
+ | -@daviixs                                                                   |
+ |                                                                             |
+ '-----------------------------------------------------------------------------'
+```
 
-## 📚 Atualmente estudando
-🎓 **Fatec Franca "Dr Thomaz Novelino" São Paulo** – Analista e desenvolvimento de sistemas 4/6
-      
-   </td>
-   <td valign="top" style="padding-left: 20px;">
-     <img align="right" alt="tux-typing-gif" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/tux-typing.gif" width="150px"/>
-   </td>
-  </tr>
-</table>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/headings/stack-dark.svg"><img src="./imgs/headings/stack-light.svg" alt="01 Stack" width="132"></picture></p>
 
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/lang-javascript-dark.svg"><img src="./imgs/icons/lang-javascript-light.svg" alt="JavaScript" title="JavaScript" width="60"></picture
+  ><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/lang-typescript-dark.svg"><img src="./imgs/icons/lang-typescript-light.svg" alt="TypeScript" title="TypeScript" width="60"></picture
+  ><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/lang-python-dark.svg"><img src="./imgs/icons/lang-python-light.svg" alt="Python" title="Python" width="60"></picture
+  ><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/lang-java-dark.svg"><img src="./imgs/icons/lang-java-light.svg" alt="Java" title="Java" width="60"></picture>
+</p>
 
-## 🌐 Redes sociais:
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/lang-nodejs-dark.svg"><img src="./imgs/icons/lang-nodejs-light.svg" alt="Node.js" title="Node.js" width="60"></picture
+  ><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/lang-nestjs-dark.svg"><img src="./imgs/icons/lang-nestjs-light.svg" alt="NestJS" title="NestJS" width="60"></picture
+  ><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/lang-fastify-dark.svg"><img src="./imgs/icons/lang-fastify-light.svg" alt="Fastify" title="Fastify" width="60"></picture
+  ><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/lang-springboot-dark.svg"><img src="./imgs/icons/lang-springboot-light.svg" alt="Spring Boot" title="Spring Boot" width="60"></picture>
+</p>
 
-<div align="center">
-  <a href="https://linkedin.com/in/davi-xavier-silva/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:xaviersilvadavi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://davixs.com.br">
-  <img src="https://img.shields.io/badge/Meu%20Portfólio-111111?style=for-the-badge&logo=safari&logoColor=white" />
-  </a>
-</div>
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/lang-react-dark.svg"><img src="./imgs/icons/lang-react-light.svg" alt="React" title="React" width="60"></picture
+  ><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/lang-nextjs-dark.svg"><img src="./imgs/icons/lang-nextjs-light.svg" alt="Next.js" title="Next.js" width="60"></picture
+  ><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/lang-tailwind-dark.svg"><img src="./imgs/icons/lang-tailwind-light.svg" alt="Tailwind CSS" title="Tailwind CSS" width="60"></picture>
+</p>
 
-  <h3>💻 Tech Stack</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/lang-postgresql-dark.svg"><img src="./imgs/icons/lang-postgresql-light.svg" alt="PostgreSQL" title="PostgreSQL" width="60"></picture
+  ><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/lang-sqlite-dark.svg"><img src="./imgs/icons/lang-sqlite-light.svg" alt="SQLite" title="SQLite" width="60"></picture
+  ><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/lang-prisma-dark.svg"><img src="./imgs/icons/lang-prisma-light.svg" alt="Prisma ORM" title="Prisma ORM" width="60"></picture
+  ><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/lang-docker-dark.svg"><img src="./imgs/icons/lang-docker-light.svg" alt="Docker" title="Docker" width="60"></picture
+  ><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/lang-aws-dark.svg"><img src="./imgs/icons/lang-aws-light.svg" alt="AWS" title="AWS" width="60"></picture>
+</p>
 
-## 📊 GitHub Stats
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/headings/social-dark.svg"><img src="./imgs/headings/social-light.svg" alt="02 Contato / contact" width="330"></picture></p>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daviixs&theme=dark" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daviixs&theme=dark" alt="Top Languages" />
-</div>
+<p>
+  <a href="https://linkedin.com/in/davi-xavier-silva/"><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/linkedin-dark.svg"><img src="./imgs/icons/linkedin-light.svg" alt="LinkedIn" title="LinkedIn" width="60"></picture></a
+  ><a href="https://github.com/daviixs"><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/github-dark.svg"><img src="./imgs/icons/github-light.svg" alt="GitHub" title="GitHub" width="60"></picture></a
+  ><a href="mailto:xaviersilvadavi@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/email-dark.svg"><img src="./imgs/icons/email-light.svg" alt="Send me an email" title="Email" width="60"></picture></a>
+</p>
 
----
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/headings/portfolio-dark.svg"><img src="./imgs/headings/portfolio-light.svg" alt="03 Portfolio" width="198"></picture></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daviixs&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p><a href="https://davixs.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/art/portfolio-dark.svg"><img src="./imgs/art/portfolio-light.svg" alt="Meu portfólio: davixs.com.br" title="Abrir meu portfólio" width="348"></picture></a></p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5772e2,100:224bf3&height=120&section=footer"/>
+```text
+ davi@github ~ % exit
+ logout
+ Saving session...completed.
+
+ [Process completed]▌
+```
